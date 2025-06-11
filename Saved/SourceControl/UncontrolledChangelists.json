@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/k/Documents/GitHub/TeamGameProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/2V/JEWPY2LXSLUDKU5CXE1PXB.uasset",
+				"C:/Users/k/Documents/GitHub/TeamGameProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/PJ/JII06HCSRHF6VJJ4WOPEZD.uasset",
+				"C:/Users/k/Documents/GitHub/TeamGameProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/55/M8KZG1XC1GXJLJ0DC4B0ID.uasset",
+				"C:/Users/k/Documents/GitHub/TeamGameProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/IH/VSKUWFYNH8CUA32QONB47S.uasset",
+				"C:/Users/k/Documents/GitHub/TeamGameProject/Content/ThirdPerson/_GENERATED/k/Box_1569ED9B.uasset",
+				"C:/Users/k/Documents/GitHub/TeamGameProject/Content/ThirdPerson/_GENERATED/k/Box_9ABA652D.uasset",
+				"C:/Users/k/Documents/GitHub/TeamGameProject/Content/ThirdPerson/_GENERATED/k/Box_ED539CB6.uasset"
+			]
+		}
+	]
+}
